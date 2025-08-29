@@ -3,5 +3,9 @@ Este es mi archivo local
 
 #Archivo modificado en github por Estudiante2
 
+<<<<<<< HEAD
 #Archivo modificado de manera Local00337
 
+=======
+#Cambio realizado en GitHub (rama main)
+>>>>>>> 16a1dc0cf5ea7476e3b66dc610ae758a274989cc
