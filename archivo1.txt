@@ -11,3 +11,4 @@ Este es mi archivo local
 >>>>>>> 16a1dc0cf5ea7476e3b66dc610ae758a274989cc
 
 Línea añadida desde GitHub en la tarea 
+Línea añadida en local en la tarea
